@@ -1,0 +1,17 @@
+#wrapper{
+  background-color: #f0f0f0;
+
+  min-height: 40px;
+}
+#left{
+  float: left;
+  margin-left: 80px;
+
+}
+
+#right{
+  float: right;
+  margin-right: 80px;
+}
+
+

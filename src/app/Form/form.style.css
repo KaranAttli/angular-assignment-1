@@ -1,0 +1,46 @@
+body{
+  background-color: #f0f0f0;
+  min-height: 400px;
+  border: 1px solid grey;
+}
+
+#left{
+  float: left;
+  width: 50%;
+  border: 1px solid transparent;
+}
+
+#right{
+  position: relative;
+  float: right;
+  width: 49%;
+  top: 70px;
+}
+
+
+#greetings{
+  font-weight: bold;
+
+}
+
+.left-margin{
+  margin-left: 80px;
+}
+
+.right-margin{
+  margin-right: 80px;
+}
+
+
+#box{
+  min-height: 60px;
+}
+
+select{
+  width: 82%;
+}
+
+#submit2{
+  position: relative;
+  top: -20px;
+}

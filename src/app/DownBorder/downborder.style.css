@@ -1,0 +1,25 @@
+#first{
+  float: left;
+
+  width: 50%;
+  text-align: center;
+  background-color: #158FEC;
+  color: white;
+  font-size: larger;
+}
+
+#second{
+  float: right;
+
+  width: 49.5%;
+  text-align: center;
+  height: 60px;
+  background-color: #184298;
+  color : white;
+  font-size: larger;
+}
+
+#text {
+  position: relative;
+  top : 3px;
+}
